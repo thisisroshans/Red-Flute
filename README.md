@@ -1,5 +1,4 @@
-# Red-Flute
-Android App for booking ticket using firebase.
+### Red Flute
 
 Tasks
 1. Login using google sign in or email via Firebase
@@ -9,6 +8,23 @@ Tasks
 5. Get total no of bookings.
 6. Get total money spend.
 
-visit [lilliemountain](https://www.lilliemountain.com/ "lilliemountain")
-check my [instagram](https://www.instagram.com/lillie.mountain/ "instagram")
+------------
 
+### Screens
+- ![Event List](https://raw.githubusercontent.com/g0li/Red-Flute/master/event_list.png "Event List" )
+
+
+- ![Event List with Nav open](https://raw.githubusercontent.com/g0li/Red-Flute/master/nav_event_list.png "Event List  with Nav open")
+
+
+- ![Event Info](https://raw.githubusercontent.com/g0li/Red-Flute/master/eventinfo.png "Event Info")
+
+
+- ![My Bookings](https://raw.githubusercontent.com/g0li/Red-Flute/master/my_bookings.png "My Bookings")
+
+
+- ![Profile](https://raw.githubusercontent.com/g0li/Red-Flute/master/profile.png "My Bookings")
+
+--------
+visit [lilliemountain.com](https://www.lilliemountain.com/ "lilliemountain")
+check my [instagram](https://www.instagram.com/lillie.mountain/ "instagram")
